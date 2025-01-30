@@ -1,5 +1,7 @@
 This is our first React App we have create using Vite
 //clone this repo before moving further
+install the node modules before running the project 
+cmd- npm install (or) npm i 
 
 Before you could enter into working with the project created, Go through the directory structure and also get to know what is the work of each file 
 
