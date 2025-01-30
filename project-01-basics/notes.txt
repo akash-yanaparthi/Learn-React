@@ -1,0 +1,13 @@
+This is our first React App we have create using Vite
+//clone this repo before moving further
+
+Before you could enter into working with the project created, Go through the directory structure and also get to know what is the work of each file 
+
+"src" folder 
+Contains all the files, we are working with. The src (source) folder is where all your React code lives. It contains the main files for your app, including components, styles, and logic.
+
+" package.json " folder 
+It is like a summary file for your project. It contains:
+✅ Project information (name, version, description)
+✅ Dependencies (libraries used in the project)
+✅ Scripts (commands to run your app)
