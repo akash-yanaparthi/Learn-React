@@ -1,8 +1,20 @@
-# React + Vite
+This is our first React App we have create using Vite
+//clone this repo before moving further
+install the node modules before running the project 
+cmd- npm install (or) npm i 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Before you could enter into working with the project created, Go through the directory structure and also get to know what is the work of each file 
 
-Currently, two official plugins are available:
+"src" folder 
+Contains all the files, we are working with. The src (source) folder is where all your React code lives. It contains the main files for your app, including components, styles, and logic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+" package.json " folder 
+It is like a summary file for your project. It contains:
+✅ Project information (name, version, description)
+✅ Dependencies (libraries used in the project)
+✅ Scripts (commands to run your app)
+
+
+
+So when you are creating new components, it is always recommended that you use the naming convention that is, starting letter of the component name should be a capital letter.
+

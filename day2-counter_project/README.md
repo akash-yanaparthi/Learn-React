@@ -1,8 +1,24 @@
-# React + Vite
+In the day 2 of learning react, we are coming across the concept of React hooks
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+//clone this repo before moving further
+install the node modules before running the project 
+cmd- npm install (or) npm i
 
-Currently, two official plugins are available:
+React hooks are functions that let you use state and other react features in functional components
+like useState, useEffect and so many, we will be discussing all of them one by one
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+this project deals with only useState
+
+What is useState?
+useState is a hook that allows you to add state to your functional components.
+In React, state refers to data that can change over time, like form inputs, counters, or fetched data. When state changes, the component re-renders to reflect the updated data.
+
+How Does useState Work?
+It’s a function that returns an array with two values:
+  1. The current state value: What’s the current value of your state?
+  2. A function to update the state: How do you change the state?
+
+You always call useState() at the top level of your component, and it needs an initial state.
+
+
+Go through the code of App.jsx for better understanding
